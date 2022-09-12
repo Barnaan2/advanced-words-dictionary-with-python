@@ -127,7 +127,12 @@ def main():
         word = input("Word: ")
         if word ==  "0":
             break
-        print(translate(word)) 
+        output = translate(word)
+        if type(output) == list:
+        	for item in output:
+        		print(item)
+        else:
+        	print(output)
   
 
 home_page()
