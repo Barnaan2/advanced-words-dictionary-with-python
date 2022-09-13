@@ -1,0 +1,4 @@
+ I have a plan of making this dictionary smart enough to read from the basic book as we dictionary as we human do 
+ so that i need to make machine learning algorithm that can learn and develop the ablity of reading book. i know there are alot of 
+ algorithm for doing that kind of task but in my case it is a little bit domain specfic since i needed a robot that really understand words those are 
+ written by anybody . so it needs a lot 
